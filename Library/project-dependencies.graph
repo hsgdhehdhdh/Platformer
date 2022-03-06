@@ -1,0 +1,22 @@
+        (Õoú±œ»£HÐ¬AÊ¤
+»V¸PúÇLƒ$Ñ>^Z$    ÿÿÿÿ          MUnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null   NSystem.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089   8UnityEditor.Scripting.APIUpdater.AssemblyDependencyGraph   m_Graphm_Processed¼System.Collections.Generic.List`1[[UnityEditor.Scripting.APIUpdater.AssemblyDependencyGraph+DependencyEntry, UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]‚System.Collections.Generic.HashSet`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]      	   	      ¼System.Collections.Generic.List`1[[UnityEditor.Scripting.APIUpdater.AssemblyDependencyGraph+DependencyEntry, UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]   _items_size_version  JUnityEditor.Scripting.APIUpdater.AssemblyDependencyGraph+DependencyEntry[]   	            ‚System.Collections.Generic.HashSet`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]   VersionComparerCapacityElements  ’System.Collections.Generic.GenericEqualityComparer`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]   ¶   	      	              HUnityEditor.Scripting.APIUpdater.AssemblyDependencyGraph+DependencyEntry   		   	
+   	   	   	
+   	   	   	   	   	   	   	   	   	   	   	   	   	   
+   ’System.Collections.Generic.GenericEqualityComparer`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]           	   HUnityEditor.Scripting.APIUpdater.AssemblyDependencyGraph+DependencyEntry   m_Namem_Dependencies<Status>k__BackingField¼System.Collections.Generic.List`1[[UnityEditor.Scripting.APIUpdater.AssemblyDependencyGraph+DependencyEntry, UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]/UnityEditor.Scripting.APIUpdater.AssemblyStatus         Unity.Plastic.Antlr3.Runtime	   ãÿÿÿ/UnityEditor.Scripting.APIUpdater.AssemblyStatus   value__       
+   	      mscorlib	   àÿÿÿãÿÿÿ      	   !   System	"   Ýÿÿÿãÿÿÿ      	   $   Unity.Plastic.Newtonsoft.Json	%   Úÿÿÿãÿÿÿ   
+   	   '   
+System.Xml	(   ×ÿÿÿãÿÿÿ      	   *   System.Data	+   Ôÿÿÿãÿÿÿ      	   -   log4netPlastic	.   Ñÿÿÿãÿÿÿ      	   0   
+System.Web	1   Îÿÿÿãÿÿÿ      	   3   System.Configuration	4   Ëÿÿÿãÿÿÿ      	   6   unityplastic	7   Èÿÿÿãÿÿÿ      	   9   log4net	:   Åÿÿÿãÿÿÿ      	   <   System.Core	=   Âÿÿÿãÿÿÿ      	   ?   
+Mono.Posix	@   ¿ÿÿÿãÿÿÿ      	   B   System.Net.Http	C   ¼ÿÿÿãÿÿÿ      	   E   System.Drawing	F   ¹ÿÿÿãÿÿÿ      	   H   System.Windows.Forms	I   ¶ÿÿÿãÿÿÿ      	   K   System.Management	L   ³ÿÿÿãÿÿÿ      	   N   
+Mono.Security	O   °ÿÿÿãÿÿÿ         	Q               	R           "      	R           %      	S         (      	R           +      	R           .      	U         1      	R           4      	R           7      	W         :      	R           =      	R           @      	R           C      	R           F      	R           I      	R           L      	R           O      	R           Q          HUnityEditor.Scripting.APIUpdater.AssemblyDependencyGraph+DependencyEntry   	
+   	   
+R           HUnityEditor.Scripting.APIUpdater.AssemblyDependencyGraph+DependencyEntry   S          HUnityEditor.Scripting.APIUpdater.AssemblyDependencyGraph+DependencyEntry   	
+   	   	
+   	   U          HUnityEditor.Scripting.APIUpdater.AssemblyDependencyGraph+DependencyEntry   	
+   	   	   	
+   	   	   
+W          HUnityEditor.Scripting.APIUpdater.AssemblyDependencyGraph+DependencyEntry   	
+   		   	   	   	   	   	
+   	   	   	   	   	   	   	
+   	   
+
